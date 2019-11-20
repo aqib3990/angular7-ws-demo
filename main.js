@@ -2550,7 +2550,7 @@ __webpack_require__.r(__webpack_exports__);
 var myRxStompConfig = {
     // Which server?
     // brokerURL: 'ws://127.0.0.1:15674/ws',
-    brokerURL: 'ws://172.30.74.114:61614/ws',
+    brokerURL: 'ws://172.30.172.167:61614/ws',
     // Headers
     // Typical keys: login, passcode, host
     connectHeaders: {
